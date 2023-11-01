@@ -26,7 +26,6 @@
         <span class="fs-2">Talent Tune</span>
       </a>
       <ul class="nav nav-pills">
-        <li class="nav-item"><a href="#Home" class="nav-link text-light">Home</a></li>
         <li class="nav-item"><a href="#Features" class="nav-link text-light">Features</a></li>
         <li class="nav-item"><a href="#FAQs" class="nav-link text-light">FAQs</a></li>
         <li class="nav-item"><a href="#Acerca de" class="nav-link text-light">Acerca de</a></li>
@@ -43,6 +42,9 @@
           <img src="./image/artist.jpg" alt="Imagen 1">
           <img src="./image/artist2.jpg" alt="Imagen 2">
           <img src="./image/artist3.jpg" alt="Imagen 3">
+          <img src="./image/artist.jpg" alt="Imagen 4">
+          <img src="./image/artist2.jpg" alt="Imagen 5">
+          <img src="./image/artist3.jpg" alt="Imagen 6">
         </div>
       </div>
     </div>
@@ -52,43 +54,42 @@
   <section id="Features">
     <div class="box-features-container">
       <h1 class="d-flex flex-wrap justify-content-center align-items-center" style="text-align: center;">Las características de nuestra aplicación son</h1>
-      <div class="d-flex flex-wrap justify-content-center align-items-center"
-        style="display: grid; justify-content: center; grid-template-columns:250px 250px 250px;gap:80px;text-align: center;">
+      <div style="display: grid; justify-content: center; grid-template-columns:250px 250px 250px;gap:80px;text-align: center;">
         <div class="box-feature">
           <h5>Busqueda de nuevos talentos </h5>
-          <img class="feature-image" src="./image/caracteristica1.jpg" width="150px" alt="Busqueda">
+          <img class="feature-image" src="./image/caracteristica1.jpg" width="200px" alt="Busqueda">
         </div>
         <div class="box-feature">
           <h5>Comunicación entre usuarios</h5>
-          <img class="feature-image" src="./image/caracteristica2.jpg" width="170px" alt="Comunicación">
-        </div>
-        <div class="box-feature">
-          <h5>Carga de contenido multimedia</h5>
-          <img class="feature-image" src="./image/caracteristica3.jpg" width="300px" alt="contenido">
-        </div>
-        <div class="box-feature">
-          <h5>Calificación y reseñas</h5>
-          <img class="feature-image" src="./image/caracteristica4.jpg" width="300px" alt="Calificaciones">
-        </div>
-        <div class="box-feature">
-          <h5>Descubrimientos de nuevos artistas</h5>
-          <img class="feature-image" src="./image/caracteristica5.jpg" width="300px" alt="Descubrimientos">
+          <img class="feature-image" src="./image/caracteristica2.jpg" width="200px" alt="Comunicación">
         </div>
         <div class="box-feature">
           <h5>Información sobre eventos musicales</h5>
-          <img class="feature-image" src="./image/caracteristica6.jpg" width="180px" alt="Eventos">
+          <img class="feature-image" src="./image/caracteristica6.jpg" width="200px" alt="Eventos">
+        </div>
+        <div class="box-feature">
+          <h5>Calificación y reseñas</h5>
+          <img class="feature-image" src="./image/caracteristica4.jpg" width="200px" alt="Calificaciones">
+        </div>
+        <div class="box-feature">
+          <h5>Descubrimientos de nuevos artistas</h5>
+          <img class="feature-image" src="./image/caracteristica5.jpg" width="200px" alt="Descubrimientos">
+        </div>
+        <div class="box-feature">
+          <h5>Carga de contenido multimedia</h5>
+          <img class="feature-image" src="./image/caracteristica3.jpg" width="200px" alt="contenido">
         </div>
         <div class="box-feature">
           <h5>Sistema de coincidencias</h5>
-          <img class="feature-image" src="./image/caracteristica7.jpg" width="250px" alt="Coincidencias">
+          <img class="feature-image" src="./image/caracteristica7.jpg" width="200px" alt="Coincidencias">
         </div>
         <div class="box-feature">
           <h5>Seguridad y privacidad</h5>
-          <img class="feature-image" src="./image/caracteristica8.jpg" width="220px" alt="Seguridad">
+          <img class="feature-image" src="./image/caracteristica8.jpg" width="200px" alt="Seguridad">
         </div>
         <div class="box-feature">
           <h5>Gestión de proyectos</h5>
-          <img class="feature-image" src="./image/caracteristica9.jpg" width="220px" alt="Gestión">
+          <img class="feature-image" src="./image/caracteristica9.jpg" width="200px" alt="Gestión">
         </div>
       </div>
     </div>
@@ -96,8 +97,7 @@
   </section>
 
   <section id="FAQs">
-    <div
-      style="display: flex; flex-direction: column;gap: 30px; padding: 60px 60px; border-bottom: 2px  solid black;background-color: #0056ac;color: white;">
+    <div style="display: flex; flex-direction: column;gap: 30px; padding: 60px 60px; border-bottom: 2px  solid black;background-color: #0056ac;color: white;">
       <h1 class="d-flex flex-wrap justify-content-center align-items-center" style="text-align: center;">Preguntas y respuestas frecuentes</h1>
       <div class="box-question-container">
         <div class="box-question-item">
@@ -219,8 +219,7 @@
           Aqui presentamos al equipo creador de Talent Tune:
         </p>
       </div>
-      <div style="display: flex; flex-direction: column; gap:30px">
-        <div class="box-team-item-container1">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap:30px">        
           <div class="team-item">
             <img id="item-image" src="./image/Carlos.png" width="186px" alt="Carlos Guimaraes" />
             <h4>Carlos Guimaraes</h4>
@@ -232,9 +231,7 @@
           <div class="team-item">
             <img id="item-image" src="./image/Karito.jpg" width="190px" alt="Karito Medina" />
             <h4>Karito Medina</h4>
-          </div>
-        </div>
-        <div class="box-team-item-container2">
+        </div>       
           <div class="team-item">
             <img id="item-image" src="./image/Juan.jpg" width="207px" alt="Juan Montes" />
             <h4>Juan Montes</h4>
@@ -243,7 +240,6 @@
             <img id="item-image" src="./image/Greicy.jpg" width="200px" alt="Greicy Huamán" />
             <h4>Greicy Huamán</h4>
           </div>
-        </div>
       </div>
     </div>
     </div>
@@ -255,17 +251,17 @@
       window.scrollTo({ top: 0, behavior: "smooth" });
     }); 
   </script>
-    </br>
-  <section id="Descargala">
-    <div style="text-align: center; gap: 100px">
+  <section id="Descargala" style="border-top:#000000 1px solid; padding: 50px;">
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
       <h1>Descarga nuestra aplicacion en las siguientes plataformas:</h1>
-      <div style="display: grid; grid-template-columns: 1fr 1fr; align-items: center">
+      <div style="display: grid; grid-template-columns: 250px 250px;">
         <a href="https://play.google.com/store/games?hl=es_PE&gl=US" target="_blank">
-          <img src="./image/playStore.jpg" alt="PlayStore" width="50%">
+          <img src="./image/playStore.jpg" width="90%" alt="PlayStore">
         </a>
         <a href="https://www.apple.com/la/app-store/" target="_blank">
-          <img src="./image/appStore.jpg" alt="AppStore" width="50%">
+          <img src="./image/appStore.jpg" width="90%" alt="AppStore">
         </a>
+      </div>
     </div>
   </section>
 
