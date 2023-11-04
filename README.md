@@ -1,7 +1,7 @@
 # INFORMACIÓN DE PROYECTO
 Nuestra idea de proyecto es una aplicación que tiene como objetivo apoyar en la búsqueda de artistas e integrantes de bandas y facilitar conexiones basadas en gustos compartidos, así como también contactar con managers o empresas patrocinadoras basadas en gustos compartidos para promover el factor cultural y social.
 
-#AUTORES
+# AUTORES
 ° ARLET AQUIJE CHACALIAZA
 Conocimientos y habilidades:
 Tengo conocimientos de C + +, Java, Python, conocimientos básicos en HTML y CSS. He tenido experiencia en trabajos grupales y soy muy comunicativa con el equipo.
@@ -23,12 +23,12 @@ Tengo conocimientos en C++, asimismo poseo conocimientos básicos en HTML y teng
 Conocimientos y habilidades: 
 Tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles.
 
-#SEGMENTO OBJETIVO
+# SEGMENTO OBJETIVO
 * Segmento Objetivo #1: Artistas que se inscriben en la aplicación. 
 * Segmento Objetivo #2: Empresas musicales, managers o personas con capacidad de invertir en “los talentos”. 
 * Segmento Objetivo #3: Seguidores que apoyan a los artistas.
 
-#PRINCIPALES CARACTERÍSTICAS DE SOLUCIÓN DIGITAL
+# PRINCIPALES CARACTERÍSTICAS DE SOLUCIÓN DIGITAL
 -App con ingreso mediante un login, previo registro del usuario, donde ingresa sus datos, esto con el fin de brindarle seguridad.
 
 -Página web y aplicación móvil para comodidad del usuario con un algoritmo que evite mostrar videos repetidos, para que todos los artistas tengan la misma posibilidad de que sus videos sean vistos.
