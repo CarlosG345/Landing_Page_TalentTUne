@@ -39,13 +39,17 @@ Tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y tamb
 * 3: Seguidores que apoyan a los artistas.
 
 # PRINCIPALES CARACTERÍSTICAS DE SOLUCIÓN DIGITAL
--App con ingreso mediante un login, previo registro del usuario, donde ingresa sus datos, esto con el fin de brindarle seguridad.
+-Un panel donde los usuarios logren visualizar diversos videos cortos de acuerdo a su interes. 
 
--Página web y aplicación móvil para comodidad del usuario con un algoritmo que evite mostrar videos repetidos, para que todos los artistas tengan la misma posibilidad de que sus videos sean vistos.
+-Herramientas para evaluar el rendimiento de visualizaciones en los videos publicados. 
+
+-Capacidades para lograr indicar que nos gusto el video mediante un boton de estrella, comentar, guardar y compartir el video realizado.
+
+-Brindar comodidad al usuario con un algoritmo que evite mostrar videos repetidos, para que todos los artistas tengan la misma posibilidad de que sus videos sean vistos.
 
 -Implementación de un sistema de tags para mejorar las búsquedas entre usuarios, para que mediante palabras clave puedan encontrar a otros usuarios con gustos o talentos específicos.
 
--Interfaz diferente para los managers y/o sellos discográficos, para una elección más eficiente al momento de buscar nuevos talentos.
+-Disponibilidad de la aplicación en todos los dispositivos móviles, lo que permite a los usuarios comunicación y presentación de sus trabajos.
 
 
 
