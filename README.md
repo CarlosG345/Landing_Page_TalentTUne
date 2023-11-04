@@ -34,9 +34,9 @@ Conocimientos y habilidades:
 Tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles.
 
 # SEGMENTO OBJETIVO
-* 1: Artistas que se inscriben en la aplicación. 
-* 2: Empresas musicales, managers o personas con capacidad de invertir en “los talentos”. 
-* 3: Seguidores que apoyan a los artistas.
+* Los artistas que se inscriben en la aplicación. 
+* Las empresas musicales, managers o personas con capacidad de invertir en “los talentos”. 
+* Los seguidores que apoyan a los artistas.
 
 # PRINCIPALES CARACTERÍSTICAS DE SOLUCIÓN DIGITAL
 -Un panel donde los usuarios logren visualizar diversos videos cortos de acuerdo a su interes. 
