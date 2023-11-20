@@ -161,3 +161,95 @@ body {
 .box-question-item:hover {
   background-color: #e1f0ff;
 }
+
+.log-in {
+  text-align: center;
+  padding: 50px;
+}
+
+.log-in h2 {
+  font-size: 36px;
+  color: #bad204;
+}
+
+.log-in form {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+.log-in label {
+  display: block;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #bad204;
+}
+
+.log-in input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 2px solid #bad204;
+  border-radius: 5px;
+}
+
+.log-in button {
+  background-color: #bad204;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.log-in button:hover {
+  background-color: #bad204;
+}
+
+.sign-up {
+  text-align: center;
+  padding: 50px;
+}
+
+.sign-up h2 {
+  font-size: 36px;
+  color: #bad204;
+}
+
+.sign-up form {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+.sign-up label {
+  display: block;
+  font-weight: bold;
+  color: #bad204;
+}
+
+.sign-up input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 2px solid #bad204;
+  border-radius: 5px;
+}
+
+.sign-up button {
+  background-color: #98a918;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.sign-up button:hover {
+  background-color: #bad204;
+}
+
+.sign-up select {
+  text-align: center;
+  width: 100%;
+}
