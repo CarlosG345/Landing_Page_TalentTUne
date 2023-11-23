@@ -9,6 +9,7 @@
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <script src="assets/main.js"></script>
   <link
     href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
     rel="stylesheet">
@@ -47,10 +48,10 @@
                 <input type="text" required>
                 <br><br>
                 <h6>Username</h6>
-                <input type="text" required>
+                <input id="text" type="text" required>
                 <br><br>
                 <h6>Password</h6>
-                <input type="password" required>
+                <input id="password" type="password" required>
                 <br><br>
                 <h6>Repeat password</h6>
                 <input type="password" required>
@@ -63,14 +64,13 @@
                     <option value="Manager">Manager</option>
                     <option value="Seguidor">Seguidor</option>
                 </select>
-                <button type="submit">Sign Up</button>
+                <button id="submit-button" type="submit">Sign Up</button>
                 <br><br>
                 <p>¿Ya tienes una cuenta? <a href="login.html">Inicia Sesión</a></p>
             </div>
         </form>
     </section>
     <button id="button-begin">Volver al inicio</button>
-    <script src="assets/main.js"></script>
     <footer style="background-color: #FFD147;color:black; padding: 12px;display: flex;justify-content: center;">
         <p>
           &copy;2023 Talent Tune
